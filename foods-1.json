@@ -1,0 +1,1054 @@
+[
+  {
+    "id": 1,
+    "name": "Coq au Vin",
+    "country": "France",
+    "category": "Miscellaneous",
+    "price": 18.5,
+    "currency": "USD",
+    "ingredients": [
+      "Chicken",
+      "Red wine",
+      "Mushrooms",
+      "Onion",
+      "Carrots",
+      "Thyme"
+    ],
+    "instructions": "Brown the chicken, cook it slowly with wine and vegetables, and simmer until tender.",
+    "image": "https://www.recipetineats.com/tachyon/2016/09/Coq-au-Vin_00.jpg?resize=900%2C1260&zoom=0.72"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Parmesan",
+    "country": "Italy",
+    "category": "Chicken",
+    "price": 16.5,
+    "currency": "USD",
+    "ingredients": [
+      "Chicken",
+      "Tomato sauce",
+      "Mozzarella",
+      "Parmesan",
+      "Breadcrumbs",
+      "Olive oil"
+    ],
+    "instructions": "Coat the chicken with breadcrumbs, cook until golden, add tomato sauce and cheese, then bake until the cheese melts.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4b067cd907c6d86384b336405a8c505e%2F17825209258701000005595.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "id": 3,
+    "name": "Ratatouille",
+    "country": "France",
+    "category": "Vegetarian",
+    "price": 13.0,
+    "currency": "USD",
+    "ingredients": [
+      "Eggplant",
+      "Zucchini",
+      "Tomato",
+      "Bell pepper",
+      "Onion",
+      "Olive oil"
+    ],
+    "instructions": "Slice the vegetables, season them, and bake or simmer until soft and flavorful.",
+    "image": "https://www.allrecipes.com/thmb/bkXoArv3mjCmhOHKPBkaQUR48dg=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "French Onion Soup",
+    "country": "France",
+    "category": "Appetizer",
+    "price": 9.5,
+    "currency": "USD",
+    "ingredients": [
+      "Onion",
+      "Butter",
+      "Vegetable stock",
+      "Bread",
+      "Gruyere cheese"
+    ],
+    "instructions": "Caramelize the onions, add stock, and serve with toasted bread and melted cheese.",
+    "image": "https://www.recipetineats.com/tachyon/2018/11/French-Onion-Soup_1.jpg?resize=900%2C1125&zoom=0.86"
+  },
+  {
+    "id": 5,
+    "name": "Quiche Lorraine",
+    "country": "France",
+    "category": "Breakfast",
+    "price": 11.5,
+    "currency": "USD",
+    "ingredients": [
+      "Pastry",
+      "Eggs",
+      "Cream",
+      "Bacon",
+      "Gruyere cheese",
+      "Nutmeg"
+    ],
+    "instructions": "Fill the pastry with an egg, cream, cheese, and bacon mixture, then bake until set.",
+    "image": "https://www.recipetineats.com/tachyon/2018/04/Quiche-Lorraine_0.jpg?resize=964%2C1350&zoom=0.8"
+  },
+  {
+    "id": 6,
+    "name": "Crêpes Suzette",
+    "country": "France",
+    "category": "Dessert",
+    "price": 8.5,
+    "currency": "USD",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Butter",
+      "Orange juice",
+      "Sugar"
+    ],
+    "instructions": "Cook thin crêpes, then warm them in a sweet orange-butter sauce.",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-562458_11-f0749ab.jpg?quality=90&webp=true&resize=440,400"
+  },
+  {
+    "id": 7,
+    "name": "Bouillabaisse",
+    "country": "France",
+    "category": "Seafood",
+    "price": 24.0,
+    "currency": "USD",
+    "ingredients": [
+      "White fish",
+      "Mussels",
+      "Shrimp",
+      "Tomato",
+      "Fennel",
+      "Saffron"
+    ],
+    "instructions": "Simmer the aromatics and tomatoes in stock, then gently cook the seafood until done.",
+    "image": "https://www.allrecipes.com/thmb/thPXxauw0SlnsgloqOFTDBrYgyg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/12832-bouillabaisse-DDMFS-4x3_36425-95195b100c5c4193b8ec58e629dfa209.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tarte Tatin",
+    "country": "France",
+    "category": "Dessert",
+    "price": 9.0,
+    "currency": "USD",
+    "ingredients": [
+      "Apples",
+      "Puff pastry",
+      "Butter",
+      "Sugar",
+      "Cinnamon"
+    ],
+    "instructions": "Caramelize the apples, cover with pastry, bake, and carefully invert before serving.",
+    "image": "https://www.seriouseats.com/thmb/FI8u66Dv9yhX4gb445yOevyZw4A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20230227-SEA-TarteTatin-AmandaSuarez-hero-54353d97767b4d88b6468153449ed70e.JPG"
+  },
+  {
+    "id": 9,
+    "name": "Steak Frites",
+    "country": "France",
+    "category": "Miscellaneous",
+    "price": 22.0,
+    "currency": "USD",
+    "ingredients": [
+      "Beef steak",
+      "Potatoes",
+      "Butter",
+      "Garlic",
+      "Parsley",
+      "Oil"
+    ],
+    "instructions": "Season and sear the steak to your preferred doneness, then serve with crisp fries.",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2026/01/SteakFrites-9592d4c.jpg?quality=90&webp=true&resize=700,636"
+  },
+  {
+    "id": 10,
+    "name": "Salade Niçoise",
+    "country": "France",
+    "category": "Vegetarian",
+    "price": 14.0,
+    "currency": "USD",
+    "ingredients": [
+      "Tomato",
+      "Green beans",
+      "Eggs",
+      "Olives",
+      "Potatoes",
+      "Lettuce"
+    ],
+    "instructions": "Arrange the cooked vegetables, eggs, olives, and lettuce, then dress with vinaigrette.",
+    "image": "https://lacuisinedegeraldine.fr/wp-content/uploads/2026/07/salade-nicoise-originale-188-1024x683.jpg.webp"
+  },
+  {
+    "id": 11,
+    "name": "Poutine",
+    "country": "Canada",
+    "category": "Miscellaneous",
+    "price": 10.0,
+    "currency": "USD",
+    "ingredients": [
+      "Potatoes",
+      "Cheese curds",
+      "Gravy",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": "Serve hot fries topped with cheese curds and warm gravy.",
+    "image": "https://www.allrecipes.com/thmb/6mrjQbPzA73hhpJOU8lFZ1eEaow=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/79300-real-poutine-DDMFS-4x3-0d8e5e37f35e4e61bffe0b6c0fc85a63.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Tourtière",
+    "country": "Canada",
+    "category": "Miscellaneous",
+    "price": 16.0,
+    "currency": "USD",
+    "ingredients": [
+      "Ground pork",
+      "Ground beef",
+      "Pastry",
+      "Onion",
+      "Cloves",
+      "Cinnamon"
+    ],
+    "instructions": "Cook the meat with onion and spices, place it in pastry, and bake until golden.",
+    "image": "https://www.allrecipes.com/thmb/B8nAphQX92m9aZ2PWtCRtoXPTqw=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4675434-5e650b47f96146da8122d7399c925821.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Canadian Maple Salmon",
+    "country": "Canada",
+    "category": "Seafood",
+    "price": 19.0,
+    "currency": "USD",
+    "ingredients": [
+      "Salmon",
+      "Maple syrup",
+      "Mustard",
+      "Lemon",
+      "Black pepper"
+    ],
+    "instructions": "Brush salmon with maple-mustard glaze and bake until it flakes easily.",
+    "image": "https://www.allrecipes.com/thmb/5pwsGThptil9CPdKnl3W2dKiwRM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/51283-RM-maple-salmon-ddmfs-3x4-2624-1e5a9dc354a54744b72c6e19e8fbbcca.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Montreal Smoked Meat Sandwich",
+    "country": "Canada",
+    "category": "Miscellaneous",
+    "price": 15.0,
+    "currency": "USD",
+    "ingredients": [
+      "Smoked beef",
+      "Rye bread",
+      "Mustard",
+      "Pickles"
+    ],
+    "instructions": "Layer warm smoked beef on rye bread and serve with mustard and pickles.",
+    "image": "https://glebekitchen.com/wp-content/uploads/2016/10/smokedmeatsandwich-1024x768.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Peameal Bacon Sandwich",
+    "country": "Canada",
+    "category": "Breakfast",
+    "price": 12.0,
+    "currency": "USD",
+    "ingredients": [
+      "Peameal bacon",
+      "Bun",
+      "Mustard",
+      "Tomato",
+      "Lettuce"
+    ],
+    "instructions": "Pan-sear the peameal bacon and serve it in a bun with mustard and fresh toppings.",
+    "image": "https://www.closetcooking.com/wp-content/uploads/2008/05/Peameal-Bacon-Sandwich-500.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Butter Tarts",
+    "country": "Canada",
+    "category": "Dessert",
+    "price": 7.0,
+    "currency": "USD",
+    "ingredients": [
+      "Pastry shells",
+      "Butter",
+      "Brown sugar",
+      "Eggs",
+      "Maple syrup"
+    ],
+    "instructions": "Whisk the filling ingredients, pour into pastry shells, and bake until just set.",
+    "image": "https://www.seriouseats.com/thmb/BnAWowbaVT-bWJ8i7DpPhaGOeac=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20240910-SEA-CanadianButterTarts-VyTran-Hero1-39-d9bd7a59eba745b8aa2825aa2bdff758.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Nanaimo Bars",
+    "country": "Canada",
+    "category": "Dessert",
+    "price": 6.5,
+    "currency": "USD",
+    "ingredients": [
+      "Graham cracker crumbs",
+      "Cocoa",
+      "Butter",
+      "Custard powder",
+      "Chocolate"
+    ],
+    "instructions": "Layer the crumb base, custard filling, and melted chocolate, chilling between layers.",
+    "image": "https://www.allrecipes.com/thmb/vClq8fXrNWfVU6LrOSKtaWipd3g=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-25095-nanaimo-bars-iii-ddmfs-4x3-a12764c85da6481d830bc28014ad3ed3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Split Pea Soup",
+    "country": "Canada",
+    "category": "Vegan",
+    "price": 8.5,
+    "currency": "USD",
+    "ingredients": [
+      "Yellow split peas",
+      "Carrot",
+      "Celery",
+      "Onion",
+      "Bay leaf",
+      "Vegetable stock"
+    ],
+    "instructions": "Simmer split peas with vegetables and stock until soft, then season to taste.",
+    "image": "https://www.allrecipes.com/thmb/JX6T8JXo4ibZdy7FT77Nsf_D_SY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/219170-HamAndSplitPeaSoup-DDMFS-4x3-154b6d4968b14fa190ea733b66bbbc8e.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Bannock",
+    "country": "Canada",
+    "category": "Breakfast",
+    "price": 5.0,
+    "currency": "USD",
+    "ingredients": [
+      "Flour",
+      "Baking powder",
+      "Water",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": "Mix the ingredients into a dough, shape it, and bake or pan-cook until golden.",
+    "image": "https://www.allrecipes.com/thmb/2hAfJaSXgSzTXNvv3bD2stfVTjY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-6919-bannock-DDMFS-4x3-beauty-fc822f2d8bb54b71be5c89dad8365c25.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Cedar-Plank Trout",
+    "country": "Canada",
+    "category": "Seafood",
+    "price": 20.0,
+    "currency": "USD",
+    "ingredients": [
+      "Trout",
+      "Lemon",
+      "Dill",
+      "Olive oil",
+      "Garlic"
+    ],
+    "instructions": "Season the trout and cook it on a prepared cedar plank until flaky.",
+    "image": "https://www.fishingmaverick.com/wp-content/uploads/2021/08/Photo-18-08-2021-18-03-37-800x500.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Chicken Teriyaki",
+    "country": "Japan",
+    "category": "Miscellaneous",
+    "price": 16.0,
+    "currency": "USD",
+    "ingredients": [
+      "Chicken",
+      "Soy sauce",
+      "Mirin",
+      "Sugar",
+      "Ginger",
+      "Sesame seeds"
+    ],
+    "instructions": "Sear the chicken, add the teriyaki sauce, and simmer until glazed and cooked through.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F10%2F18%2F5540949-oven-baked-chicken-teriyaki-tonyLovesKalbi-1x1-1.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "id": 22,
+    "name": "Gyudon",
+    "country": "Japan",
+    "category": "Miscellaneous",
+    "price": 14.0,
+    "currency": "USD",
+    "ingredients": [
+      "Beef",
+      "Rice",
+      "Onion",
+      "Soy sauce",
+      "Mirin",
+      "Dashi"
+    ],
+    "instructions": "Simmer thinly sliced beef and onions in seasoned broth and serve over steamed rice.",
+    "image": "https://thewoksoflife.com/wp-content/uploads/2023/07/gyudon-9.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Vegetable Tempura",
+    "country": "Japan",
+    "category": "Vegan",
+    "price": 12.0,
+    "currency": "USD",
+    "ingredients": [
+      "Sweet potato",
+      "Eggplant",
+      "Carrot",
+      "Flour",
+      "Cold water",
+      "Oil"
+    ],
+    "instructions": "Dip sliced vegetables in a light batter and fry until crisp and pale golden.",
+    "image": "https://thewoksoflife.com/wp-content/uploads/2019/10/tempura-16-1205x1536.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Miso Soup",
+    "country": "Japan",
+    "category": "Appetizer",
+    "price": 5.5,
+    "currency": "USD",
+    "ingredients": [
+      "Miso paste",
+      "Dashi",
+      "Tofu",
+      "Wakame",
+      "Scallion"
+    ],
+    "instructions": "Warm the dashi, dissolve in miso off the boil, then add tofu, wakame, and scallion.",
+    "image": "https://www.allrecipes.com/thmb/_bvEo6W1yKUmVEy9rtbLkNOWSPQ=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13107-miso-soup-PICS-Beauty-4x3-d955924c7a7b4e19a17f8cb7473cd052.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Onigiri",
+    "country": "Japan",
+    "category": "Miscellaneous",
+    "price": 4.5,
+    "currency": "USD",
+    "ingredients": [
+      "Rice",
+      "Nori",
+      "Salt",
+      "Umeboshi"
+    ],
+    "instructions": "Season warm rice, shape it into triangles around a filling, and wrap with nori.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2023%2F01%2F31%2F140422-onigiri-japanese-rice-balls-ddmfs-Beauty-3x4-1.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "id": 26,
+    "name": "Tonkatsu",
+    "country": "Japan",
+    "category": "Pork Side",
+    "price": 15.0,
+    "currency": "USD",
+    "ingredients": [
+      "Pork cutlet",
+      "Flour",
+      "Egg",
+      "Panko breadcrumbs",
+      "Oil",
+      "Cabbage"
+    ],
+    "instructions": "Coat pork in flour, egg, and panko, then fry until crisp and fully cooked.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F931809.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "id": 27,
+    "name": "Sushi Rolls",
+    "country": "Japan",
+    "category": "Seafood",
+    "price": 18.0,
+    "currency": "USD",
+    "ingredients": [
+      "Sushi rice",
+      "Nori",
+      "Salmon",
+      "Cucumber",
+      "Rice vinegar",
+      "Avocado"
+    ],
+    "instructions": "Spread seasoned sushi rice on nori, add fillings, roll tightly, and slice.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F21b6eb13d2e0075f6977604375ed71c0%2F1646671692Screenshot%25202022-03-03%252010.24.32%2520AM.png&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "id": 28,
+    "name": "Matcha Mochi",
+    "country": "Japan",
+    "category": "Dessert",
+    "price": 7.0,
+    "currency": "USD",
+    "ingredients": [
+      "Glutinous rice flour",
+      "Sugar",
+      "Matcha powder",
+      "Water",
+      "Cornstarch"
+    ],
+    "instructions": "Mix the ingredients into a smooth dough, steam or microwave until elastic, and shape with starch.",
+    "image": "https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2019/07/Green-Tea-Mochi-9124-I-green-an-1.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Tamagoyaki",
+    "country": "Japan",
+    "category": "Breakfast",
+    "price": 7.5,
+    "currency": "USD",
+    "ingredients": [
+      "Eggs",
+      "Soy sauce",
+      "Mirin",
+      "Sugar",
+      "Oil"
+    ],
+    "instructions": "Cook thin layers of seasoned egg in a pan, rolling each layer into a neat omelet.",
+    "image": "https://www.allrecipes.com/thmb/wUVjj69FvrOeVQtFzYejlTx5KyU=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8644676_Japanese-Style-Rolled-Omelet_Tamagoyaki_John-Mitzewich_4x3-20a7364eb8af4ae39a35804d6f58cbe8.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Edamame",
+    "country": "Japan",
+    "category": "Appetizer",
+    "price": 5.0,
+    "currency": "USD",
+    "ingredients": [
+      "Edamame",
+      "Salt",
+      "Lemon"
+    ],
+    "instructions": "Boil or steam edamame until tender, drain, and sprinkle with salt.",
+    "image": "https://images.food52.com/8NKIEoKi8UDfcQx74mkRVvKg3Wg=/12dd1cd0-618f-454f-80a4-6a2a4578ecac--20.jpg?w=1080&q=75"
+  },
+  {
+    "id": 31,
+    "name": "Risotto alla Milanese",
+    "country": "Italy",
+    "category": "Miscellaneous",
+    "price": 17.0,
+    "currency": "USD",
+    "ingredients": [
+      "Arborio rice",
+      "Saffron",
+      "Butter",
+      "Parmesan",
+      "Onion",
+      "Stock"
+    ],
+    "instructions": "Toast the rice with onion, gradually add warm stock, and finish with saffron, butter, and Parmesan.",
+    "image": "https://www.allrecipes.com/thmb/WBuO7Rco7QRfB0Yx34GXsl4Ciy4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7674256-1fecc0c327354784bed545c1a5655c46.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Spaghetti Bolognese",
+    "country": "Italy",
+    "category": "Pasta",
+    "price": 16.0,
+    "currency": "USD",
+    "ingredients": [
+      "Spaghetti",
+      "Ground beef",
+      "Tomato",
+      "Onion",
+      "Carrot",
+      "Parmesan"
+    ],
+    "instructions": "Simmer the beef and vegetable tomato sauce, then toss with cooked spaghetti.",
+    "image": "https://www.recipetineats.com/tachyon/2018/07/Spaghetti-Bolognese.jpg?resize=900%2C1260&zoom=0.86"
+  },
+  {
+    "id": 33,
+    "name": "Margherita Pizza",
+    "country": "Italy",
+    "category": "Miscellaneous",
+    "price": 14.0,
+    "currency": "USD",
+    "ingredients": [
+      "Pizza dough",
+      "Tomato",
+      "Mozzarella",
+      "Basil",
+      "Olive oil"
+    ],
+    "instructions": "Top the dough with tomato, mozzarella, and basil, then bake in a very hot oven.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8224382.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "id": 34,
+    "name": "Lasagna al Forno",
+    "country": "Italy",
+    "category": "Pasta",
+    "price": 18.5,
+    "currency": "USD",
+    "ingredients": [
+      "Lasagna sheets",
+      "Ground beef",
+      "Tomato sauce",
+      "Bechamel",
+      "Parmesan",
+      "Onion"
+    ],
+    "instructions": "Layer pasta sheets with meat sauce and béchamel, top with cheese, and bake until bubbling.",
+    "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/F61F7C83-0190-4F41-8CCA-793D799D91EF/Derivates/DBA70BC0-085D-405D-8593-BB5E136098DF.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Pesto Genovese Pasta",
+    "country": "Italy",
+    "category": "Pasta",
+    "price": 15.0,
+    "currency": "USD",
+    "ingredients": [
+      "Pasta",
+      "Basil",
+      "Pine nuts",
+      "Garlic",
+      "Parmesan",
+      "Olive oil"
+    ],
+    "instructions": "Blend basil, pine nuts, garlic, cheese, and oil into pesto, then toss with hot pasta.",
+    "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0802C73C-3213-4AA6-BD3E-7390A13989FF/Derivates/ff280a78-bfae-46c9-9ea8-c63f5508cde8.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Tiramisu",
+    "country": "Italy",
+    "category": "Dessert",
+    "price": 8.0,
+    "currency": "USD",
+    "ingredients": [
+      "Ladyfingers",
+      "Mascarpone",
+      "Eggs",
+      "Sugar",
+      "Coffee",
+      "Cocoa powder"
+    ],
+    "instructions": "Layer coffee-dipped ladyfingers with mascarpone cream and chill before dusting with cocoa.",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2023/10/Pistachio-tiramisu-6d3d0da.jpg?quality=90&webp=true&resize=700,636"
+  },
+  {
+    "id": 37,
+    "name": "Caprese Salad",
+    "country": "Italy",
+    "category": "Vegetarian",
+    "price": 11.0,
+    "currency": "USD",
+    "ingredients": [
+      "Tomato",
+      "Mozzarella",
+      "Basil",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": "Slice tomatoes and mozzarella, layer with basil, and dress with olive oil and salt.",
+    "image": "https://www.seriouseats.com/thmb/xQ6_j_AIt75p5XiOk4Wud7EGFks=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/classic-caprese-salad-recipe-hero-05_1-9ce2f9b0601c45279e07320f9548fa66.JPG"
+  },
+  {
+    "id": 38,
+    "name": "Minestrone",
+    "country": "Italy",
+    "category": "Vegan",
+    "price": 10.0,
+    "currency": "USD",
+    "ingredients": [
+      "Beans",
+      "Zucchini",
+      "Carrot",
+      "Celery",
+      "Tomato",
+      "Vegetable stock"
+    ],
+    "instructions": "Simmer chopped vegetables and beans in stock until tender; add herbs to taste.",
+    "image": "https://www.seriouseats.com/thmb/w5BWnZJD3waOhUTIRRXV6fZlEmI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__09__20160909-minestrone-18-a7c5c492c2e544cbb6e0733b66ee5d3e.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Arancini",
+    "country": "Italy",
+    "category": "Appetizer",
+    "price": 9.0,
+    "currency": "USD",
+    "ingredients": [
+      "Risotto rice",
+      "Mozzarella",
+      "Flour",
+      "Egg",
+      "Breadcrumbs",
+      "Oil"
+    ],
+    "instructions": "Shape chilled risotto around cheese, coat in flour, egg, and breadcrumbs, then fry until golden.",
+    "image": "https://www.allrecipes.com/thmb/Jsg6uqEVKiN3Rc2_IpJuGh6z_24=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RM-57844-Arancini-ddmfs-3x4-6021-19619bf1fd4d41279000e464618dd411.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Cabri Rôti",
+    "country": "Italy",
+    "category": "Goat",
+    "price": 23.0,
+    "currency": "USD",
+    "ingredients": [
+      "Goat meat",
+      "Garlic",
+      "Rosemary",
+      "Olive oil",
+      "Lemon",
+      "Black pepper"
+    ],
+    "instructions": "Season the goat meat with garlic, rosemary, lemon, and oil, then roast slowly until tender and cooked through.",
+    "image": "https://image.jimcdn.com/app/cms/image/transf/dimension=640x1024:format=jpg/path/s8b927eb370467afd/image/if9c3938f60547748/version/1764343945/image.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Paella Valenciana",
+    "country": "Spain",
+    "category": "Miscellaneous",
+    "price": 21.0,
+    "currency": "USD",
+    "ingredients": [
+      "Rice",
+      "Chicken",
+      "Rabbit",
+      "Green beans",
+      "Saffron",
+      "Tomato"
+    ],
+    "instructions": "Sauté the meat and vegetables, add rice and seasoned stock, and cook without stirring until tender.",
+    "image": "https://www.ice.edu/sites/default/files/styles/width_1000/public/content/blog-article/header-image/paella.jpg.webp?itok=NbNMcP_C"
+  },
+  {
+    "id": 42,
+    "name": "Patatas Bravas",
+    "country": "Spain",
+    "category": "Appetizer",
+    "price": 8.0,
+    "currency": "USD",
+    "ingredients": [
+      "Potatoes",
+      "Tomato",
+      "Smoked paprika",
+      "Garlic",
+      "Olive oil"
+    ],
+    "instructions": "Roast or fry potato chunks until crisp and serve with a spicy tomato sauce.",
+    "image": "https://www.seriouseats.com/thmb/vrfHCJsb4fL-V18nWxTCaVzBNQI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220203-patatas-bravas-vicky-wasik-30-4e21feb5d589421d88fa43d6033bdeca.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Gazpacho",
+    "country": "Spain",
+    "category": "Vegan",
+    "price": 7.5,
+    "currency": "USD",
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Red bell pepper",
+      "Garlic",
+      "Olive oil",
+      "Vinegar"
+    ],
+    "instructions": "Blend the raw vegetables with oil and vinegar, then chill before serving.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2023%2F02%2F20%2F222331-Chef-Johns-Gazpacho-ddmfs-4x3-2781.jpg&q=60&c=sc&poi=auto&orient=true&h=512"
+  },
+  {
+    "id": 44,
+    "name": "Tortilla Española",
+    "country": "Spain",
+    "category": "Breakfast",
+    "price": 10.0,
+    "currency": "USD",
+    "ingredients": [
+      "Potatoes",
+      "Eggs",
+      "Onion",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": "Gently cook sliced potatoes and onion, combine with eggs, and cook into a thick omelet.",
+    "image": "https://www.allrecipes.com/thmb/IJhG-crodCDepABOcjnoeKJ-WdU=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/213226-tortilla-espanola-VAT-007-4x3-70f5f39a1d884375b7a0a5b8ef963e18.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Gambas al Ajillo",
+    "country": "Spain",
+    "category": "Seafood",
+    "price": 14.0,
+    "currency": "USD",
+    "ingredients": [
+      "Shrimp",
+      "Garlic",
+      "Olive oil",
+      "Chili flakes",
+      "Parsley"
+    ],
+    "instructions": "Sizzle garlic in olive oil, add shrimp and chili, and cook until shrimp turn opaque.",
+    "image": "https://www.allrecipes.com/thmb/fOrQrtIiO3ZyILCcwKOPmzzm7Q8=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/266085-spanish-garlic-shrimp-DDMFS-beauty-4x3-e4e199450d704150b787a0eb59640add.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Churros con Chocolate",
+    "country": "Spain",
+    "category": "Dessert",
+    "price": 7.0,
+    "currency": "USD",
+    "ingredients": [
+      "Flour",
+      "Water",
+      "Butter",
+      "Sugar",
+      "Cinnamon",
+      "Chocolate"
+    ],
+    "instructions": "Pipe and fry the dough until crisp, coat with cinnamon sugar, and serve with thick chocolate.",
+    "image": "https://delishglobe.com/wp-content/uploads/2024/10/Churros-con-Chocolate-Recipe-1024x749.png"
+  },
+  {
+    "id": 47,
+    "name": "Croquetas de Jamón",
+    "country": "Spain",
+    "category": "Pork Side",
+    "price": 9.5,
+    "currency": "USD",
+    "ingredients": [
+      "Ham",
+      "Milk",
+      "Butter",
+      "Flour",
+      "Egg",
+      "Breadcrumbs"
+    ],
+    "instructions": "Make a thick béchamel with chopped ham, chill, shape into croquettes, coat, and fry.",
+    "image": "https://www.seriouseats.com/thmb/hQ0wcxYkXc_QvkNUG2G-kZOU8Tc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20250304-CroquetasdeJamon-AmandaSuarez-14-e45747d8684c4667aa1b48a9445df903.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Espinacas con Garbanzos",
+    "country": "Spain",
+    "category": "Vegan",
+    "price": 9.0,
+    "currency": "USD",
+    "ingredients": [
+      "Spinach",
+      "Chickpeas",
+      "Garlic",
+      "Paprika",
+      "Olive oil",
+      "Cumin"
+    ],
+    "instructions": "Sauté garlic and spices, add chickpeas and spinach, and cook until heated through.",
+    "image": "https://images.food52.com/1CqXnYCxUPJqUnhpIbvhMYA4_rI=/2c7c92c7-04ea-4274-944b-b12c00ec2827--garbanzos.jpg?w=1080&q=75"
+  },
+  {
+    "id": 49,
+    "name": "Pulpo a la Gallega",
+    "country": "Spain",
+    "category": "Seafood",
+    "price": 19.0,
+    "currency": "USD",
+    "ingredients": [
+      "Octopus",
+      "Potatoes",
+      "Smoked paprika",
+      "Olive oil",
+      "Sea salt"
+    ],
+    "instructions": "Cook the octopus until tender, slice it, and serve over potatoes with paprika and oil.",
+    "image": "https://www.giallozafferano.com/images/315-31557/galician-style-octopus-pulpo-a-la-gallega_780x520_wm.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Crema Catalana",
+    "country": "Spain",
+    "category": "Dessert",
+    "price": 8.0,
+    "currency": "USD",
+    "ingredients": [
+      "Milk",
+      "Egg yolks",
+      "Sugar",
+      "Cornstarch",
+      "Cinnamon",
+      "Lemon zest"
+    ],
+    "instructions": "Cook a thick custard, chill it, sprinkle sugar on top, and caramelize the surface.",
+    "image": "https://www.daringgourmet.com/wp-content/uploads/2020/03/Crema-Catalana-2-square-edit-scaled.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Kung Pao Chicken",
+    "country": "China",
+    "category": "Miscellaneous",
+    "price": 16.0,
+    "currency": "USD",
+    "ingredients": [
+      "Chicken",
+      "Peanuts",
+      "Dried chili",
+      "Soy sauce",
+      "Rice vinegar",
+      "Scallion"
+    ],
+    "instructions": "Stir-fry chicken with chilies and peanuts, then add the savory-sweet sauce and scallions.",
+    "image": "https://www.allrecipes.com/thmb/Tw5IBfyQ8xL6HL9tEcGOqAb7Ybk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/9027-Kung-Pao-Chicken-8eeef0f719d842639b52db1c81b77d3d.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Yangzhou Fried Rice",
+    "country": "China",
+    "category": "Miscellaneous",
+    "price": 13.0,
+    "currency": "USD",
+    "ingredients": [
+      "Rice",
+      "Eggs",
+      "Shrimp",
+      "Peas",
+      "Carrot",
+      "Scallion"
+    ],
+    "instructions": "Stir-fry cooked rice with egg, shrimp, peas, carrot, and scallion over high heat.",
+    "image": "https://www.allrecipes.com/thmb/Zi8jfWDnsSzpHUj9h6BLisvxoFU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/239487-Fried-Rice-with-Yum-Yum-Sauce-beauty-4x3-2f9d394cb5db4b138e62fc4f53332efe.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Mapo Tofu",
+    "country": "China",
+    "category": "Miscellaneous",
+    "price": 14.0,
+    "currency": "USD",
+    "ingredients": [
+      "Tofu",
+      "Ground pork",
+      "Doubanjiang",
+      "Garlic",
+      "Sichuan pepper",
+      "Scallion"
+    ],
+    "instructions": "Cook the aromatics and pork, add tofu and sauce, and simmer gently until flavorful.",
+    "image": "https://assets.epicurious.com/photos/624b45cc1184c47f7e94b17e/1:1/w_2560%2Cc_limit/MapoTofu_RECIPE_033122_31225.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Vegetable Chow Mein",
+    "country": "China",
+    "category": "Vegan",
+    "price": 12.0,
+    "currency": "USD",
+    "ingredients": [
+      "Wheat noodles",
+      "Cabbage",
+      "Carrot",
+      "Bean sprouts",
+      "Soy sauce",
+      "Scallion"
+    ],
+    "instructions": "Stir-fry vegetables, add cooked noodles and soy sauce, and toss until hot.",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2024/01/Veg-Chowmein-1014x1536.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Peking Duck",
+    "country": "China",
+    "category": "Miscellaneous",
+    "price": 25.0,
+    "currency": "USD",
+    "ingredients": [
+      "Duck",
+      "Five-spice powder",
+      "Honey",
+      "Pancakes",
+      "Cucumber",
+      "Scallion"
+    ],
+    "instructions": "Season and roast the duck until the skin is crisp, then serve with pancakes and vegetables.",
+    "image": "https://www.allrecipes.com/thmb/pb0PJaZsqHS0iiDVycWgkenPxV4=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-31972-peking-duck-DDMFS-4x3-hero-3344139da66141b687e1d7b85b995bf5.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Hot and Sour Soup",
+    "country": "China",
+    "category": "Appetizer",
+    "price": 8.0,
+    "currency": "USD",
+    "ingredients": [
+      "Tofu",
+      "Bamboo shoots",
+      "Mushrooms",
+      "Vinegar",
+      "White pepper",
+      "Soy sauce"
+    ],
+    "instructions": "Simmer mushrooms and bamboo shoots in broth, add tofu, and season with vinegar and pepper.",
+    "image": "https://www.allrecipes.com/thmb/HTuEimhbMi6JvjIIsf9GDkeLeBs=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/283133-chef-johns-hot-and-sour-soup-DDMFS-KH-4x3-37b0961b53254b33a604a5f00609e3f3.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Spring Rolls",
+    "country": "China",
+    "category": "Appetizer",
+    "price": 7.0,
+    "currency": "USD",
+    "ingredients": [
+      "Spring roll wrappers",
+      "Cabbage",
+      "Carrot",
+      "Mushrooms",
+      "Soy sauce",
+      "Oil"
+    ],
+    "instructions": "Fill wrappers with seasoned vegetables, roll tightly, and fry or bake until crisp.",
+    "image": "https://www.allrecipes.com/thmb/Goyu84OMkzIywh-kLPbHZKiBfXw=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/24239-vietnamese-fresh-spring-rolls-VAT-003-4x3-02closeup-aa51c09981414dab9b14007c78a9bbab.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Egg Tarts",
+    "country": "China",
+    "category": "Dessert",
+    "price": 6.5,
+    "currency": "USD",
+    "ingredients": [
+      "Pastry shells",
+      "Eggs",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "instructions": "Pour a smooth egg custard into pastry shells and bake until the custard is just set.",
+    "image": "https://assets.epicurious.com/photos/6239fdf9ebb0382416abaf03/1:1/w_2560%2Cc_limit/HongKongEggTarts_RECIPE_IG_031722_30182.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Congee",
+    "country": "China",
+    "category": "Breakfast",
+    "price": 8.5,
+    "currency": "USD",
+    "ingredients": [
+      "Rice",
+      "Water or stock",
+      "Ginger",
+      "Scallion",
+      "Salt"
+    ],
+    "instructions": "Simmer rice in plenty of water or stock, stirring occasionally until it becomes creamy.",
+    "image": "https://www.saveur.com/uploads/2015/02/10/congee-recipe-paola-murray-saveur.jpg?dpr=1.5&format=auto&optimize=high&width=450"
+  },
+  {
+    "id": 60,
+    "name": "Steamed Fish with Ginger",
+    "country": "China",
+    "category": "Seafood",
+    "price": 18.0,
+    "currency": "USD",
+    "ingredients": [
+      "White fish",
+      "Ginger",
+      "Scallion",
+      "Soy sauce",
+      "Sesame oil"
+    ],
+    "instructions": "Steam the seasoned fish until tender, then top with ginger, scallion, and a little hot oil.",
+    "image": "https://www.allrecipes.com/thmb/yJ3bXY4ozboIcVd37iNQqAMeWS4=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/140570-steamed-fish-with-ginger-JF-R309054_14177_4x3-3da7923d8ae3416594f15599301c8147.jpg"
+  }
+]
